@@ -24,3 +24,6 @@ Course in the specialty programmer-administrator. Linux Maintenance Course.
 
 ## English
 Basic school knowledge. Frequent reading of technical documentation. Several weeks of live communication on vacation.
+EPAM english test results: 
+Rate: A2+
+Rate description: Pre-Intermediate +
