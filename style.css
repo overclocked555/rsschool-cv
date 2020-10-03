@@ -38,7 +38,7 @@ header {
     font-family: 'Comfortaa', cursive;
     font-size: 2em;
 }
-img {
+.photo {
     height: 200px;
     border-radius: 20px;
     -webkit-box-shadow: 10px 10px 20px 5px rgba(0,0,0,0.75);
