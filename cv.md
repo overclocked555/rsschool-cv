@@ -13,6 +13,8 @@ I have 12 years of experience in system administration. Now I study frontend dev
 ## Skills
 JavaScript, basic knowledge of PHP and Python. Git.
 
+![Codewars badge](https://www.codewars.com/users/overclocked555/badges/small)
+
 ## Code examples
 https://github.com/overclocked555/
 
